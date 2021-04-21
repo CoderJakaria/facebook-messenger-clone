@@ -1,0 +1,39 @@
+
+.messenger_page
+{
+    text-align: center;
+}
+
+.app__form
+{
+    padding: 20px;
+    position: fixed;
+    bottom: 20px;
+    z-index: 1;
+    background-color: #e9e9eb;
+    width: 90%;
+    margin-left: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(85,85,85,0.75);
+}
+
+.app_formControll
+{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.app__input
+{
+    flex: 1;
+}
+
+.app__iconButton
+{
+    flex: 0;
+}
+
+.massenger_icon{
+    width: 90px;
+    height: 90px;
+}
